@@ -43,21 +43,21 @@ The only way to fix a mistake is to take apart every layer above the mistake. I 
 After 19 hours (including the two hours to fix the feet), I am finally finished! The giraffe ended up being very cute; so of course I had to do an obligatory photo shoot.
 
 <figure>
-    <img src="https://i.imgur.com/X6dDSAa.jpg)" alt="top view of giraffe">
+    <img src="https://i.imgur.com/X6dDSAa.jpg" alt="top view of giraffe">
     <center><figcaption>Top View</figcaption></center>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/jIOmICr.jpg)" alt="back view of giraffe">
+    <img src="https://i.imgur.com/jIOmICr.jpg" alt="back view of giraffe">
     <center><figcaption>Back View</figcaption></center>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/dhYbvyM.jpg)" alt="back side view of giraffe">
+    <img src="https://i.imgur.com/dhYbvyM.jpg" alt="back side view of giraffe">
     <center><figcaption>Back Side View</figcaption></center>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/r8zlVmp.jpg)" alt="front view of giraffe">
+    <img src="https://i.imgur.com/r8zlVmp.jpg" alt="front view of giraffe">
     <center><figcaption>Front View</figcaption></center>
 </figure>
