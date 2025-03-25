@@ -8,7 +8,8 @@ tags:
 ![completed View of the World from 9th Avenue puzzle with box on top](/static/img/ViewOfTheWorldFrom9thAvenueWithBox.jpeg)
 <center>
 <b>Rating:</b> ★ ★ ☆ ☆ ☆<br> 
-<b>Completed Size:</b> 19.25 x26.625 in<br> 
+<b>Count:</b> 4 (2025)<br>
+<b>Completed Size:</b> 19.25 x 26.625 in<br> 
 <b>Total pieces:</b> 1000<br> 
 </center>
 

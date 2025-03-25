@@ -8,6 +8,7 @@ tags:
 ![completed Simpatico Symphony puzzle](/static/img/SimpaticoSymphonyPuzzle.jpeg)
 <center>
 <b>Rating:</b> ★ ★ ★ ★ ★<br> 
+<b>Count:</b> 2 (2025)<br>
 <b>Completed Size:</b> 20.1 x 14.2 in<br> 
 <b>Total pieces:</b> 500<br> 
 </center>
