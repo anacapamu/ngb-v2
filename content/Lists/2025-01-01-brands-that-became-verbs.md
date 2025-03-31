@@ -13,6 +13,8 @@ Here is my list of those generic trademarks:
 ### C
 - **ChapStick** for lip balm
 - **Crock-Pot** for slow cookers
+### D
+- **DoorDash** for food-delivering services 
 ### G
 - **Google** for internet searches
 ### J
@@ -25,6 +27,8 @@ Here is my list of those generic trademarks:
 - **Rollerblade** for inline skates
 ### T
 - **Tupperware** for food storage container
+### U
+- **Uber** for ride-sharing services 
 ### V
 - **Velcro** for hook-and-loop fasteners
 ### X
