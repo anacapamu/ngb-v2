@@ -2,9 +2,9 @@
 title: "Reminiscing Santa Barbara"
 date: 2020-05-30 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - Santa Barbara
+  - travel
+  - California
+  - Santa Barbara
 ---
 
 I took an intro to photography class at a local community college to force myself to use my camera more (I haven't used my DSLR much after the class, so that was a fail). To complete assignments, I took a bunch of photos downtown where I worked. While I have not been back since I moved in 2016, I am still amazed at how beautiful the buildings are there, and I am glad I have these photos to remember the year I spent in Santa Barbara.
@@ -38,4 +38,4 @@ Our Lady of Sorrows Church
 ![La Arcada Courtyard](https://i.imgur.com/7fSqJFS.jpg)
 La Arcada Courtyard
 
-*Photos taken January-May 2016.*
+_Photos taken January-May 2016._

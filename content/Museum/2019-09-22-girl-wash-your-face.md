@@ -2,12 +2,12 @@
 title: "Girl, Wash Your Face"
 date: 2019-09-22 00:00:00 -0800
 tags:
-    - book
+  - book
 ---
 
 ![Girl, Wash Your Face](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513038393l/35542451._SY475_.jpg)
 
-**Title:** *Girl, Wash Your Face: Stop Believing the Lies about Who You Are So You Can Become Who You Were Meant to Be*
+**Title:** _Girl, Wash Your Face: Stop Believing the Lies about Who You Are So You Can Become Who You Were Meant to Be_
 
 **Author:** Rachel Hollis
 

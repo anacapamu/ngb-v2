@@ -2,7 +2,7 @@
 title: "Drawing Attempt 2: June 2020"
 date: 2020-06-24 00:00:00 -0800
 tags:
-    - arts and crafts
+  - arts and crafts
 ---
 
 We were discouraged from drawing growing up because "artists don't make money." Since I do not have much experience drawing and I am not committed enough to take classes, I figured the best way to start is by copying other people. Even though I chose a drawing that I thought was simple, I still had a hard time. I clearly cannot freehand draw ovals or align objects. I know I will need to practice a lot more to be even remotely decent, so expect to see more of these posts.

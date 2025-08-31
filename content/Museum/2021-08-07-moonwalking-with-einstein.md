@@ -2,12 +2,12 @@
 title: "Moonwalking with Einstein"
 date: 2021-08-07 00:00:00 -0800
 tags:
-    - book
+  - book
 ---
 
 ![Moonwalking with Einstein](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347705105l/6346975.jpg)
 
-**Title:** *Moonwalking with Einstein: The Art and Science of Remembering Everything*
+**Title:** _Moonwalking with Einstein: The Art and Science of Remembering Everything_
 
 **Author:** Joshua Foer
 

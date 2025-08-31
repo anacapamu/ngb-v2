@@ -2,9 +2,9 @@
 title: "Belvedere"
 date: 2019-06-18 00:00:00 -0800
 tags:
-    - travel
-    - Austria
-    - museum
+  - travel
+  - Austria
+  - museum
 ---
 
 ![Belvedere Palace](https://i.imgur.com/vvU0E90.jpg)
@@ -29,4 +29,4 @@ I regretted not walking through the garden and seeing Lower Belvedere. Since I v
 ![View of side of Upper Belvedere](https://i.imgur.com/rngAfFR.jpg)
 Even though I did not get to see everything the Belvedere offered, I was still amazed by how beautiful and grand everything was. I really enjoyed sitting on the steps outside and inside the Upper Belvedere and imagining how life was like back in the days.
 
-*Pictures taken March 2019.*
+_Pictures taken March 2019._

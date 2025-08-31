@@ -2,8 +2,8 @@
 title: "Stickii Club Pop Pack - May 2021 'In My Element"
 date: 2021-06-24 00:00:00 -0800
 tags:
-    - subscription box
-    - stationery
+  - subscription box
+  - stationery
 ---
 
 Stickii Club offers three different types of monthly sticker subscriptions: Cute, Pop, and Vintage. The packs are differentiated by color: pink for Cute, aqua for Pop, and gold for Vintage. Each pack is $10 per month plus tax and shipping and comes with at least six sticker sheets and at least three stationery items.

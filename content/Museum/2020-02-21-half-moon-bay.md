@@ -2,10 +2,10 @@
 title: "Half Moon Bay"
 date: 2020-02-21 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - beach
+  - travel
+  - California
+  - San Francisco Bay Area
+  - beach
 ---
 
 ![Google map of Half Moon Bay](https://i.imgur.com/m0QhIjX.png)
@@ -54,4 +54,4 @@ and a bench with a romantic message.
 
 ![Romantic message to Elemar on wooden bench](https://i.imgur.com/KDh2MTN.jpg)
 
-*Pictures taken June 2019.*
+_Pictures taken June 2019._

@@ -2,10 +2,10 @@
 title: "Alviso Marina County Park"
 date: 2019-06-02 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - park
+  - travel
+  - California
+  - San Francisco Bay Area
+  - park
 ---
 
 ![Alviso Marina County Park](https://i.imgur.com/WTehXdu.jpg)
@@ -38,4 +38,4 @@ This is a small park but there are areas that are off limits. We did not see muc
 ![Another view of the broken dock](https://i.imgur.com/uG1pMJ9.jpg)
 ![Old and degraded pipe](https://i.imgur.com/7orGjSi.jpg)
 
-*Photos taken March 2018.*
+_Photos taken March 2018._

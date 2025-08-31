@@ -2,7 +2,7 @@
 title: "Index Cards"
 date: 2020-05-05 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 ![Screenshots of 3 different digital index cards](https://i.imgur.com/OTQ892j.png)

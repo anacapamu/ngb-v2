@@ -2,7 +2,7 @@
 title: "Sketchbook Tour: July 2020"
 date: 2020-07-31 00:00:00 -0800
 tags:
-    - arts and crafts
+  - arts and crafts
 ---
 
 <figure>

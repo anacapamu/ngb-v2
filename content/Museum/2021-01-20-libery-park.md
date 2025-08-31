@@ -2,16 +2,16 @@
 title: "Liberty Park"
 date: 2021-01-20 00:00:00 -0800
 tags:
-    - travel
-    - Utah
-    - park
+  - travel
+  - Utah
+  - park
 ---
 
 <figure style="text-align: center;">
     <img src="https://i.imgur.com/7YFCeMU.jpg" alt="Liberty Park" width="451" height="448" />
 </figure>
 
-While doing research for this post, I discovered that Liberty Park was prominently featured in the Disney show *[Andi Mack](https://film.utah.gov/blog/living-it-up-with-andi-mack/)* (I am a little too old to know of this show).
+While doing research for this post, I discovered that Liberty Park was prominently featured in the Disney show _[Andi Mack](https://film.utah.gov/blog/living-it-up-with-andi-mack/)_ (I am a little too old to know of this show).
 
 <figure style="text-align: center;">
     <img src="https://i.imgur.com/IOWTu9a.jpg" alt="Liberty Park paths with trees" width="452" height="428" />
@@ -51,4 +51,4 @@ I believe this fountain with a bird statue on it is between the pond and the avi
 
 We walked around the entire park, but I didn't take photos of everything in the park. It is a shame because Tracy Aviary and Seven Canyons Fountains are the main attractions of this park.
 
-*Photos taken April 2018.*
+_Photos taken April 2018._

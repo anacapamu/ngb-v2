@@ -2,7 +2,7 @@
 title: "December 2019 Desktop Wallpapers"
 date: 2019-11-29 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 I think the hardest part of making these calendar desktop wallpapers is ensuring that the spacing between the dates is consistent. I am getting better, but I still have room to improve.

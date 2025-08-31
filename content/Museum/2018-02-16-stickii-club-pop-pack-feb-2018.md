@@ -2,8 +2,8 @@
 title: "Stickii Club Pop Pack - Feb 2018 'Into the Wild'"
 date: 2018-02-16 00:00:00 -0800
 tags:
-    - subscription box
-    - stationery
+  - subscription box
+  - stationery
 ---
 
 Subscription boxes are the hype nowadays. The first box I tried was a beauty one from Amazon a few months ago. I don't think that box really counts since you can only get the box once and they give you the entire payment back in Amazon credits.

@@ -2,10 +2,11 @@
 title: "National Parks by Kai Carpenter, Acadia-Capitol Reef"
 date: 2025-03-23 00:00:00 -0800
 tags:
-    - jigsaw puzzle
+  - jigsaw puzzle
 ---
 
 ![completed National Parks puzzle](/static/img/NationalParksKaiCarpenterPuzzle.jpeg)
+
 <center>
 <b>Rating:</b> ★ ★ ★ ☆ ☆<br> 
 <b>Count:</b> 5 (2025)<br>

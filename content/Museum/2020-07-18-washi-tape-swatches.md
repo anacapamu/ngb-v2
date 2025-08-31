@@ -2,7 +2,7 @@
 title: "Washi Tape Swatches"
 date: 2018-02-16 00:00:00 -0800
 tags:
-    - stationery
+  - stationery
 ---
 
 I tend to hoard things like stickers and washi tapes. I figure one way to start using my collection is to display them via swatches. When I googled "wash tape swatches" to see if the word "swatches" should be singular or plural, I noticed that people had very creative ways of displaying their washi collection. Unfortunately, I am not one of those people.

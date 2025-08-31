@@ -2,12 +2,12 @@
 title: "The Headspace Guide"
 date: 2021-09-27 00:00:00 -0800
 tags:
-    - book
+  - book
 ---
 
 ![The Headspace Guide to Meditation and Mindfulness](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456694637l/27414493.jpg)
 
-**Title:** *The Headspace Guide to Meditation and Mindfulness*
+**Title:** _The Headspace Guide to Meditation and Mindfulness_
 
 **Author:** Andy Puddicombe
 

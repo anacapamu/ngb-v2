@@ -2,9 +2,9 @@
 title: "Devil's Slide Trail"
 date: 2020-12-22 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
+  - travel
+  - California
+  - San Francisco Bay Area
 ---
 
 <figure style="text-align: center;">
@@ -81,4 +81,4 @@ We didn't see any common murres on the trail, but according to [Audubon](https:/
 
 The bunker is on private property, and there is a huge sign telling people not to trespass. However, it is not fenced, and we saw several people climbing up towards the bunker.
 
-*Photos taken December 2020.*
+_Photos taken December 2020._

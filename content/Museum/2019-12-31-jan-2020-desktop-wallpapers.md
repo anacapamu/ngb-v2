@@ -2,7 +2,7 @@
 title: "Jan 2020 Desktop Wallpapers"
 date: 2019-12-31 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 I say this almost every year, but I can't believe that it is going to be a new year already.

@@ -2,12 +2,12 @@
 title: "Norse Mythology"
 date: 2019-06-08 00:00:00 -0800
 tags:
-    - book
+  - book
 ---
 
 ![Norse Mythology](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493609691l/30809689._SY475_.jpg)
 
-**Title:** *Norse Mythology*
+**Title:** _Norse Mythology_
 
 **Author:** Neil Gaiman
 
@@ -21,9 +21,9 @@ tags:
 
 **Review:**
 
-I learned from my previous mistake and picked up a fiction audiobook. I definitely finished this one much faster than the astrophysics one. Did you know that Neil Gaiman wrote the creepy children's book, *Coraline*? Because I did not know that until I started my research for this post. I do think most people know about him because of *American Gods*, but I have yet to read or watch that series.
+I learned from my previous mistake and picked up a fiction audiobook. I definitely finished this one much faster than the astrophysics one. Did you know that Neil Gaiman wrote the creepy children's book, _Coraline_? Because I did not know that until I started my research for this post. I do think most people know about him because of _American Gods_, but I have yet to read or watch that series.
 
-I loved reading about Greek gods when I was young, and after discovering Thor and Loki from the Marvel films, I wanted to learn more about these Norse gods. I looked around and decided to read *Norse Mythology*. In the introduction, Neil Gaiman informs the reader that he will be retelling the stories of the *Poet Edda*. While some people may find retelling boring, I thought Gaiman did a great job introducing the myths to beginners. He kept all the key ingredients of mythology: violence, sex, epic quests, and extreme consequences for bad decisions, while breathing life into each character by telling their backstories in a witty and funny way.
+I loved reading about Greek gods when I was young, and after discovering Thor and Loki from the Marvel films, I wanted to learn more about these Norse gods. I looked around and decided to read _Norse Mythology_. In the introduction, Neil Gaiman informs the reader that he will be retelling the stories of the _Poet Edda_. While some people may find retelling boring, I thought Gaiman did a great job introducing the myths to beginners. He kept all the key ingredients of mythology: violence, sex, epic quests, and extreme consequences for bad decisions, while breathing life into each character by telling their backstories in a witty and funny way.
 
 Since I was so invested in each character, I was annoyed that there were many unanswered questions, especially some that I thought led to major plot holes. Why did Loki hate Balder so much? How did Loki go from mischievous and cunning to murderous? Did Loki ever care for his legitimate and/or illegitimate children? Why were the gods asleep before Ragnarok? What happened to Sigyn during and after Ragnarok? While I have many more burning questions in addition to the ones I mentioned here, I do not blame Gaiman for my frustration because his goal was to retell the stories, and the source material never answered these questions.
 

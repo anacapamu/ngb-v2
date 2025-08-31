@@ -2,10 +2,11 @@
 title: "Aurélia Durand"
 date: 2025-03-01 00:00:00 -0800
 tags:
-    - jigsaw puzzle
+  - jigsaw puzzle
 ---
 
 ![completed Aurélia Durand Spinmaster puzzle with box](/static/img/AureliaDurandPuzzle.jpg)
+
 <center>
 <b>Rating:</b> ★ ★ ★ ☆ ☆<br> 
 <b>Count:</b> 1 (2025)<br>

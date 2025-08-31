@@ -2,9 +2,9 @@
 title: "Stanford University Arboretum"
 date: 2021-01-24 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
+  - travel
+  - California
+  - San Francisco Bay Area
 ---
 
 ## Arizona (Cactus) Garden
@@ -63,16 +63,17 @@ Next to the mausoleum is a statue of the Stanford family (Leland Sr., Leland Jr.
     <img src="https://i.imgur.com/ISkuCoD.jpg" alt="Angel of Grief" width="453" height="279" />
 </figure>
 
-North of the mausoleum is an *Angel of Grief* statue. The *Angel of Grief* replica was carved by Antonio Bernieri and commissioned by Jane Stanford in 1901 in memory of her brother, Henry Clay Lathrop. (Fun fact: the full name of the original piece is *The Angel of Grief Weeping Over the Dismantled Altar of Life*.) The *Angel of Grief* [marks Lathrop's grave](https://www.waymarking.com/waymarks/WMNHHX_Henry_Clay_Lathrop_Stanford_University_Palto_Alto_CA) as his ashes were placed in a bronze urn underneath it.
+North of the mausoleum is an _Angel of Grief_ statue. The _Angel of Grief_ replica was carved by Antonio Bernieri and commissioned by Jane Stanford in 1901 in memory of her brother, Henry Clay Lathrop. (Fun fact: the full name of the original piece is _The Angel of Grief Weeping Over the Dismantled Altar of Life_.) The _Angel of Grief_ [marks Lathrop's grave](https://www.waymarking.com/waymarks/WMNHHX_Henry_Clay_Lathrop_Stanford_University_Palto_Alto_CA) as his ashes were placed in a bronze urn underneath it.
 
 The statue was [replaced in 1908 without the cupola](https://punchmagazine.com/angel-of-grief/) after being severely damaged in the 1906 earthquake. The statue was neglected over the years but eventually restored in 2001.
 
-Unfortunately, the *Angel of Grief* was completely boxed off when I visited. There was no sign explaining why or when the statue would be reopened; and the most current thing I found online about the statue was that someone [tore off the front left forearm](https://news.stanford.edu/2015/08/14/vandalism-angel-grief-081415/) in 2015. The mystery remains...
+Unfortunately, the _Angel of Grief_ was completely boxed off when I visited. There was no sign explaining why or when the statue would be reopened; and the most current thing I found online about the statue was that someone [tore off the front left forearm](https://news.stanford.edu/2015/08/14/vandalism-angel-grief-081415/) in 2015. The mystery remains...
 
 ### January 31, 2021 Update
+
 <figure style="text-align: center;">
     <img src="https://i.imgur.com/G7O65L5.jpg" alt="Angel of Grief" width="500" height="586" />
     <figcaption><em>The Angel of Grief is open!</em></figcaption>
 </figure>
 
-*Photos taken January 2021.*
+_Photos taken January 2021._

@@ -2,8 +2,8 @@
 title: "Stickii Club Cute Pack - Aug 2018 'Writing to Atlantis'"
 date: 2019-11-06 00:00:00 -0800
 tags:
-    - subscription box
-    - stationery
+  - subscription box
+  - stationery
 ---
 
 ![Stickii Club Pop Pack](https://i.imgur.com/sQvYYl9.jpg)

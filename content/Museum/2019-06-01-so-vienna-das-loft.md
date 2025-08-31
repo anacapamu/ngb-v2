@@ -2,8 +2,8 @@
 title: "SO / Vienna - Das Loft Bar & Lounge"
 date: 2019-06-01 00:00:00 -0800
 tags:
-    - travel
-    - Austria
+  - travel
+  - Austria
 ---
 
 ![View from Das Loft Bar & Lounge](https://i.imgur.com/qtiE9Sj.jpg)
@@ -23,4 +23,4 @@ You can see the ferris wheel.
 ![View of the Donauturm](https://i.imgur.com/fUUnoe8.jpg)
 and the Donauturm amongst other landmarks.
 
-*Photos taken March 2019.*
+_Photos taken March 2019._

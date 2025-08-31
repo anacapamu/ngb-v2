@@ -2,9 +2,10 @@
 title: "Avenue of Stars"
 date: 2019-05-31 00:00:00 -0800
 tags:
-    - travel
-    - Hong Kong
+  - travel
+  - Hong Kong
 ---
+
 <figure>
     <img src="https://i.imgur.com/Zek0ePe.png" alt="Google Map of Avenue of Stars" />
     <figcaption>Avenue of Stars is the Hong Kong version of Hollywood Walk of Fame. They honor famous actors, directors, etc. with plaques along the 440 meters promenade. The promenade is extremely beautiful, modern, and clean as it just reopened from redevelopment on January 31, 2019. There is not much shade, so if you want to sit near trees you will have to go to the Salisbury Garden nearby. They have a few restaurants such as a pizzeria near the Bruce Lee statue and some stalls sprinkled throughout the promenade selling snacks like durian ice cream, boba, etc.</figcaption>

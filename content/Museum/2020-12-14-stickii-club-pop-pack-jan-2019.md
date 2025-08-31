@@ -2,8 +2,8 @@
 title: "Stickii Club Pop Pack - Jan 2019 'The Shape of Dreams'"
 date: 2020-12-14 00:00:00 -0800
 tags:
-    - subscription box
-    - stationery
+  - subscription box
+  - stationery
 ---
 
 Stickii Club offers three different types of monthly sticker subscriptions: Cute, Pop, and Vintage (formerly Retro). The packs are differentiated by color: pink for Cute, aqua (used to be purple) for Pop, and gold for Vintage. Each pack is $10 per month plus tax and shipping and comes with at least six sticker sheets and at least three stationery items.
@@ -24,7 +24,7 @@ The three stationery items for this pack are a memo pad, washi tape, and an orig
     <img src="https://i.imgur.com/2uyjiX7.jpg" alt="Sticker sheet with silver foil geometric shapes" width="451" height="652">
 </figure>
 
-The theme of this pack is *The Shape of Dreams*, so there will be a lot of geometric shapes. The 12 clear silver foil sticker flakes are shapes within shapes (shape inception).
+The theme of this pack is _The Shape of Dreams_, so there will be a lot of geometric shapes. The 12 clear silver foil sticker flakes are shapes within shapes (shape inception).
 
 <figure>
     <img src="https://i.imgur.com/uXoqVDm.jpg" alt="Colorful sticker sheet featuring various circle shapes." width="449" height="599">

@@ -2,7 +2,7 @@
 title: "Weekly Planner #001"
 date: 2020-05-04 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 ![Digital blue whale weekly planner](https://i.imgur.com/jCgRNXg.png)

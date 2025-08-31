@@ -2,10 +2,10 @@
 title: "Big Canyon Park and Crestview Park"
 date: 2020-09-05 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - park
+  - travel
+  - California
+  - San Francisco Bay Area
+  - park
 ---
 
 ## Big Canyon Park
@@ -84,4 +84,4 @@ The park was packed with kids riding their bicycles, people walking and jogging 
 
 This is the view when you look down the hill next to the track.
 
-*Photos taken July 2020.*
+_Photos taken July 2020._

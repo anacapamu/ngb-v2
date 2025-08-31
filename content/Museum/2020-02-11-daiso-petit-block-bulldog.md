@@ -37,7 +37,6 @@ The base plate is around 1.65 in x 1.65 in. There are about 10 pieces remaining 
     <center><figcaption>Back View</figcaption></center>
 </figure>
 
-
 **Overall impression:** I took 20 minutes nonstop to build this bulldog, which is much longer than I would like.I struggled because the instructions were confusing. The creator(s) wanted to condense multiple steps into one, so you really have to be good at mentally mapping 3D objects (which I am not) to complete a step correctly in one go.
 
 The blocks are also not high quality, so they do not stay together well during construction. But for around $1.50, you can entertain yourself for 20 minutes and get a new cute little bulldog to decorate your shelf.

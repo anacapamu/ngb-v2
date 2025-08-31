@@ -2,12 +2,12 @@
 title: "Hillbilly Elegy"
 date: 2019-07-01 00:00:00 -0800
 tags:
-    - book
+  - book
 ---
 
 ![Hillbilly Elegy](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463569814l/27161156.jpg)
 
-**Title:** *Hillbilly Elegy*
+**Title:** _Hillbilly Elegy_
 
 **Author:** J.D. Vance
 
@@ -21,7 +21,7 @@ tags:
 
 **Review:**
 
-*Hillbilly Elegy* is on Bill Gates' Summer 2017 Best Books List, so you know it is a book worth reading. I was only recently introduced to Gates' book lists, so I did not know that this book was on the list when I picked it up; but I definitely know why he recommended it. To summarize in a general manner that does not do the book justice, this is a rags-to-riches story.
+_Hillbilly Elegy_ is on Bill Gates' Summer 2017 Best Books List, so you know it is a book worth reading. I was only recently introduced to Gates' book lists, so I did not know that this book was on the list when I picked it up; but I definitely know why he recommended it. To summarize in a general manner that does not do the book justice, this is a rags-to-riches story.
 
 Vance is a first-time author, and some of his transitions are noticeably choppy, but they do not deter from his messages and stories. I enjoyed listening to his unique perspective of growing up in Appalachia. Since I grew up on the West Coast, I do not know much about the dynamics nor the history of the Midwest; and I think he did a great job giving me a glimpse of that. Vance does cite some research about the region, but he did it mainly to give context for his story. I do not necessarily agree with his political views or some of his opinions about social classes, but I do believe it is important to learn from people with different opinions than mine.
 

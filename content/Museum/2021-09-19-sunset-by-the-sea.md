@@ -2,8 +2,8 @@
 title: "Sunset by the Sea"
 date: 2021-09-19 00:00:00 -0800
 tags:
-    - arts and crafts
-    - paint by numbers
+  - arts and crafts
+  - paint by numbers
 ---
 
 <figure>

@@ -2,7 +2,7 @@
 title: "Weekly Planner #002"
 date: 2020-09-20 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 ![A6 weekly planner insert screenshot and details](https://i.imgur.com/QXpcH0J.png)
@@ -17,4 +17,4 @@ I have included an example of how I use this weekly planner in Notability below.
 
 I have never done a weekly spread like this on paper before as I don't have the money to buy sticker kits nor do I have patience to beautify my daily to-do lists. Since I am exploring digital bullet journaling, I thought I could try out these weekly spreads I see all over Tumblr and Instagram.
 
-Probably due to a mix of inexperience and lack of sets of digital stickers, this entry took me several hours to complete. I am also confused about whether or not the entries should be in past or present tense. In all the *Plan with Me* videos on YouTube I watched, people were entering the posts after-the-fact, which is counterintuitive for planning but would work if these served as mini diary entries. I will keep on experimenting and will provide updates and/or other freebies.
+Probably due to a mix of inexperience and lack of sets of digital stickers, this entry took me several hours to complete. I am also confused about whether or not the entries should be in past or present tense. In all the _Plan with Me_ videos on YouTube I watched, people were entering the posts after-the-fact, which is counterintuitive for planning but would work if these served as mini diary entries. I will keep on experimenting and will provide updates and/or other freebies.

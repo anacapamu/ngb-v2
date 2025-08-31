@@ -2,8 +2,8 @@
 title: "Stickii Club Cute Pack - Feb 2021 'Starry Night'"
 date: 2021-03-01 00:00:00 -0800
 tags:
-    - subscription box
-    - stationery
+  - subscription box
+  - stationery
 ---
 
 Stickii Club offers three different types of monthly sticker subscriptions: Cute, Pop, and Vintage. The packs are differentiated by color: pink for Cute, aqua for Pop, and gold for Vintage. Each pack is $10 per month plus tax and shipping and comes with at least six sticker sheets and at least three stationery items.
@@ -18,7 +18,7 @@ I got the Cute Pack this month because of how much I loved the sheets they spoil
     <img src="https://i.imgur.com/YKGF3UW.jpg" alt="Bunny sleeping on cloud clear stamp, galaxy backpack and water bottle memo pad, and starry night theme sticker" width="341" height="500" />
 </figure>
 
-The theme for this pack is *Starry Night*. Two stationery items are included: a memo pad and a clear stamp. This is the first time Stickii Club is offering clear stamps and one of the main reasons why I got this pack.
+The theme for this pack is _Starry Night_. Two stationery items are included: a memo pad and a clear stamp. This is the first time Stickii Club is offering clear stamps and one of the main reasons why I got this pack.
 
 <figure>
     <img src="https://i.imgur.com/N5yCHLb.jpg" alt="Washi tapes sticker sheet of aliens and stars" width="351" height="197" />
@@ -27,7 +27,7 @@ The theme for this pack is *Starry Night*. Two stationery items are included: a 
     <img src="https://i.imgur.com/VOQ3J4t.jpg" alt="Same design as the washi tapes but as stickers only sticker sheet" width="210" height="367" />
 </figure>
 
-The pack always includes a sticker sheet with the same art as the theme sticker. This time, we get a sticker sheet and washi tape samplers of the *Starry Night* theme. I am a little surprised the background of these sheets is not black like the theme sticker.
+The pack always includes a sticker sheet with the same art as the theme sticker. This time, we get a sticker sheet and washi tape samplers of the _Starry Night_ theme. I am a little surprised the background of these sheets is not black like the theme sticker.
 
 <figure>
     <img src="https://i.imgur.com/fv7vySL.jpg" alt="Sticker sheet with space food designs by @imaginstation" width="299" height="500" />

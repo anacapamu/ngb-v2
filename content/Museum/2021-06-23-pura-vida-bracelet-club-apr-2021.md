@@ -2,7 +2,7 @@
 title: "Pura Vida Bracelet Club - Apr 2021"
 date: 2021-06-23 00:00:00 -0800
 tags:
-    - subscription box
+  - subscription box
 ---
 
 Pura Vida has two monthly subscription boxes: Bracelet Club and Jewelry Club. You get at least three bracelets each month (USD 45+ value, according to their website) when you subscribe to the Bracelet Club. It is $14.95 a month including shipping; but it is cheaper if you prepay for 6 months or a year. Every month, you can choose between two different styles.

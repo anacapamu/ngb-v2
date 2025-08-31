@@ -2,10 +2,11 @@
 title: "Simpatico Symphony"
 date: 2025-03-09 00:00:00 -0800
 tags:
-    - jigsaw puzzle
+  - jigsaw puzzle
 ---
 
 ![completed Simpatico Symphony puzzle](/static/img/SimpaticoSymphonyPuzzle.jpeg)
+
 <center>
 <b>Rating:</b> ★ ★ ★ ★ ★<br> 
 <b>Count:</b> 2 (2025)<br>

@@ -2,8 +2,8 @@
 title: "Salt Lake City Photo Dump"
 date: 2020-12-24 00:00:00 -0800
 tags:
-    - travel
-    - Utah
+  - travel
+  - Utah
 ---
 
 <figure style="text-align: center;">
@@ -80,4 +80,4 @@ tags:
     <figcaption>View of the mountains from the airplane as we leave Salt Lake City.</figcaption>
 </figure>
 
-*Photos taken April 2018.*
+_Photos taken April 2018._

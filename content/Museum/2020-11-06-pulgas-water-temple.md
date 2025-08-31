@@ -2,9 +2,9 @@
 title: "Pulgas Water Temple"
 date: 2020-11-06 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
+  - travel
+  - California
+  - San Francisco Bay Area
 ---
 
 <figure style="text-align:center;">
@@ -64,4 +64,4 @@ I have included a short clip of the well from the temple above. Enjoy the sounds
 
 View of the reflecting pool and the cypress trees from the steps of the temple. The ground is extremely well-kept and would definitely make a great picnic spot once it is open again.
 
-*Photos and video taken November 2020.*
+_Photos and video taken November 2020._

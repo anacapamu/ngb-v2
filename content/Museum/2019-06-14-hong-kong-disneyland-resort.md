@@ -2,9 +2,9 @@
 title: "Hong Kong Disneyland Resort"
 date: 2019-06-14 00:00:00 -0800
 tags:
-    - travel
-    - Hong Kong
-    - theme park
+  - travel
+  - Hong Kong
+  - theme park
 ---
 
 <figure>
@@ -57,4 +57,4 @@ Throughout the park you can buy cute Disney-themed ice cream, etc. These Disney-
 
 Despite the humidity, I had a great time. While Hong Kong Disneyland is smaller than the original Disneyland in Anaheim, I enjoyed the shorter lines and the cheaper general admission ticket. Right now, the price of a general admission one day pass is only 639 HKD (81.40 USD).
 
-*Pictures taken April 2019.*
+_Pictures taken April 2019._

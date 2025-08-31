@@ -2,13 +2,13 @@
 title: "Kawaii Doodle Cuties"
 date: 2021-08-19 00:00:00 -0800
 tags:
-    - arts and crafts
-    - book
+  - arts and crafts
+  - book
 ---
 
 ![Kawaii Doodle Cuties](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539010989l/40224809._SX318_.jpg)
 
-**Title:** *Kawaii Doodle Cuties: Sketching Super-Cute Stuff from Around the World*
+**Title:** _Kawaii Doodle Cuties: Sketching Super-Cute Stuff from Around the World_
 
 **Author:** Zainab Khan
 

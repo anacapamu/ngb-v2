@@ -2,9 +2,10 @@
 title: "Unoriginal Perler Designs pt 1"
 date: 2017-09-28 00:00:00 -0800
 tags:
-    - arts and crafts
-    - perler
+  - arts and crafts
+  - perler
 ---
+
 I started playing with Perler beads last year.
 
 I have given away most of the Perler sprites I made as I find it more enjoyable to make things for others than for myself. I have included pictures below of the Perler sprites that I do have on me and the ones that I took pictures of before I gave them away.

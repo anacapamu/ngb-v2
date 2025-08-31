@@ -2,7 +2,7 @@
 title: "Pura Vida Bracelet Club - Apr 2019"
 date: 2019-10-05 00:00:00 -0800
 tags:
-    - subscription box
+  - subscription box
 ---
 
 <figure style="text-align:center;">

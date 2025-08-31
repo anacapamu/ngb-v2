@@ -2,7 +2,7 @@
 title: "Hawaiian Food Truck Festival"
 date: 2025-04-02 00:00:00 -0800
 tags:
-    - jigsaw puzzle
+  - jigsaw puzzle
 ---
 
 ![Hawaiian Food Truck Festival puzzle box](/static/img/HawaiianFoodTruckFestivalPuzzleBox.jpeg)

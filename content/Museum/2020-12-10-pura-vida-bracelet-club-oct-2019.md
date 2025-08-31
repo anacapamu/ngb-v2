@@ -2,7 +2,7 @@
 title: "Pura Vida Bracelet Club - Oct 2019"
 date: 2020-12-10 00:00:00 -0800
 tags:
-    - subscription box
+  - subscription box
 ---
 
 I am trying to get rid of as many of my drafts as I can before the start of the new year, so there will be quite a bit of outdated posts over the next few weeks.

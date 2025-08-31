@@ -2,7 +2,7 @@
 title: "May 2020 Desktop Wallpapers"
 date: 2020-04-30 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 I am looking forward to the day I can sit on the beach and watch the waves crash into the rocky shore. Six feet apart from anyone else, of course.

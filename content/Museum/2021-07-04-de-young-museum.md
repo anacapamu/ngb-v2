@@ -2,11 +2,11 @@
 title: "de Young Museum"
 date: 2021-07-04 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - museum
-    - arts and crafts
+  - travel
+  - California
+  - San Francisco Bay Area
+  - museum
+  - arts and crafts
 ---
 
 <figure style="text-align: center;">
@@ -62,4 +62,4 @@ They did require everyone to wear a mask, but a lady coughing the entire time ne
     <img src="https://i.imgur.com/bnoMrTI.jpg" alt="Paper chandelier with two people in it with shadow behind and to the side of it" width="451" height="272" />
 </figure>
 
-*Photos taken July 2021.*
+_Photos taken July 2021._

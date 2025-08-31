@@ -2,8 +2,8 @@
 title: "Utah State Capitol"
 date: 2019-06-07 00:00:00 -0800
 tags:
-    - travel
-    - Utah
+  - travel
+  - Utah
 ---
 
 <figure style="text-align: center;">
@@ -33,4 +33,4 @@ tags:
 
 There were not a lot of people around, so we had a great time relaxing and enjoying the views. I would definitely recommend that you check out Capitol Hill if you are ever in Salt Lake City.
 
-*Pictures taken April 2018.*
+_Pictures taken April 2018._

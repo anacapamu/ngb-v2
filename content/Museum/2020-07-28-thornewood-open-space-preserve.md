@@ -2,10 +2,10 @@
 title: "Thornewood Open Space Preserve"
 date: 2020-07-28 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - park
+  - travel
+  - California
+  - San Francisco Bay Area
+  - park
 ---
 
 <figure>
@@ -88,4 +88,4 @@ We found a cool teepee made of sticks!
 
 This is an upward view of the redwood trees near the teepee.
 
-*Photos taken July 2020.*
+_Photos taken July 2020._

@@ -2,8 +2,8 @@
 title: "September 2021 Art Challenge"
 date: 2021-09-30 00:00:00 -0800
 tags:
-    - arts and crafts
-    - art challenge
+  - arts and crafts
+  - art challenge
 ---
 
 ![theme for September art challenge](https://i.imgur.com/Z4vYxEm.png)

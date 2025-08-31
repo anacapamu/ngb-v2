@@ -2,10 +2,10 @@
 title: "The Magic Forest"
 date: 2020-05-11 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - park
+  - travel
+  - California
+  - San Francisco Bay Area
+  - park
 ---
 
 <figure>
@@ -26,4 +26,4 @@ The Magic Forest is a grove of redwood trees on Hopkins Street in Palo Alto and 
 
 We did not spend more than five minutes here since there were no paved roads in the grove and the ground was wet. But I can definitely see this as a peaceful place to read or relax.
 
-*Photos taken May 2020.*
+_Photos taken May 2020._

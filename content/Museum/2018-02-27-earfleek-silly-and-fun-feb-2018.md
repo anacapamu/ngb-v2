@@ -2,7 +2,7 @@
 title: "EarFleek Silly & Fun - Feb 2018"
 date: 2018-02-27 00:00:00 -0800
 tags:
-    - subscription box
+  - subscription box
 ---
 
 [EarFleek](http://www.earfleek.com/) sends subscribers a pair of earrings each month for USD 3.49. You can also upgrade to their premier tier, which is $9.93 a month. They have three styles: silly & fun, minimalist but groovy, and boho babe for both tiers. I think I am a minimalist but groovy gal, but I ended up choosing silly & fun because I wanted studs and not drop earrings.

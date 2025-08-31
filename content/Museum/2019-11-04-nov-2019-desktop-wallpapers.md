@@ -2,7 +2,7 @@
 title: "November 2019 Desktop Wallpapers"
 date: 2019-11-04 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 Using calendars as desktop wallpapers makes me feel more productive at work. I used to download my monthly wallpaper from [Emma's Studyblr](https://emmastudies.com/tagged/download) but she suddenly stopped updating back in August. I got tired of waiting around for her, so I decided to make my own desktop wallpapers and share them here. If you would like to use them, just right-click the image and save it to your desktop.

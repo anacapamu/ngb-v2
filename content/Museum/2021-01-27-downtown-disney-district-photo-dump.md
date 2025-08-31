@@ -2,10 +2,10 @@
 title: "Downtown Disney District Photo Dump"
 date: 2021-01-27 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - Orange County
-    - theme park
+  - travel
+  - California
+  - Orange County
+  - theme park
 ---
 
 ![Downtown Disney entrance](https://i.imgur.com/RAR31hg.jpg)
@@ -26,4 +26,4 @@ I clearly enjoyed the Lego store though.
 
 <div style="clear: both;"></div>
 
-*Photos taken June 2018.*
+_Photos taken June 2018._

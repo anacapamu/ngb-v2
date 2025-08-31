@@ -2,17 +2,17 @@
 title: "Water Dog Lake Park"
 date: 2020-08-07 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - park
+  - travel
+  - California
+  - San Francisco Bay Area
+  - park
 ---
 
 <figure>
     <img src="https://i.imgur.com/fctBjMc.jpg" alt="Entrance sign to Water Dog Lake Park" width="450" height="600" />
 </figure>
 
-I was mildly annoyed at the seemingly redundant name of "Water Dog Lake Park" that did not roll off the tongue until I did some research for this post. I learned from the City of Belmont that [water dog refers to salamanders](https://www.belmont.gov/Home/Components/FacilityDirectory/FacilityDirectory/10/702). A quick Google search and [Wikipedia](https://en.wikipedia.org/wiki/Water_dog_(disambiguation)) seem to indicate that water dog can also refer to certain species of dogs or even a giant otter. I didn't see any salamanders, otters, or many dogs, so who knows what this park is actually named after.
+I was mildly annoyed at the seemingly redundant name of "Water Dog Lake Park" that did not roll off the tongue until I did some research for this post. I learned from the City of Belmont that [water dog refers to salamanders](https://www.belmont.gov/Home/Components/FacilityDirectory/FacilityDirectory/10/702). A quick Google search and [Wikipedia](<https://en.wikipedia.org/wiki/Water_dog_(disambiguation)>) seem to indicate that water dog can also refer to certain species of dogs or even a giant otter. I didn't see any salamanders, otters, or many dogs, so who knows what this park is actually named after.
 
 <figure>
     <img src="https://i.imgur.com/gG2Oo3g.jpg" alt="Lake Road Trail view" width="500" height="375" />
@@ -70,4 +70,4 @@ The view of the lake is mainly obscured by bushes and trees on the loop.
 
 Overall a pleasant, easy, and short hike despite a few steep areas. You do have to be aware of bikers speeding down the narrow fire roads as we saw a biker almost collided into a middle-aged couple.
 
-*Photos taken August 2020.*
+_Photos taken August 2020._

@@ -2,8 +2,8 @@
 title: "Paint by Sticker Masterpieces"
 date: 2021-02-02 00:00:00 -0800
 tags:
-    - arts and crafts
-    - book
+  - arts and crafts
+  - book
 ---
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466341357l/28110839._SX318_.jpg" alt="" width="300" height="387" />
@@ -14,18 +14,18 @@ I have been a little obsessed with paint by numbers recently and saw the paint b
 
 The masterpieces included in this book are:
 
-- *The Birth of Venus*, by Sandro Botticelli
-- *The Creation of Adam*, by Michelangelo
-- *Mona Lisa*, by Leonardo da Vinci
-- *Girl with a Pearl Earring*, by Johannes Vermeer
-- *Napoleon at Saint-Bernard Pass*, by Jacques-Louis David
-- *The Great Wave off Kanagawa*, by Katsushika Hokusai
-- *Houses of Parliament, Sunlight Effect*, by Claude Monet
-- *Still Life with Apples and a Pot of Primroses*, by Paul Cezanne
-- *Dance at Bougival*, by Pierre-Auguste Renoir
-- *Bedroom in Arles*, by Vincent van Gogh
-- *Breezing Up (A Fair Wind)*, by Winslow Homer
-- *Flaming June*, by Frederic Leighton
+- _The Birth of Venus_, by Sandro Botticelli
+- _The Creation of Adam_, by Michelangelo
+- _Mona Lisa_, by Leonardo da Vinci
+- _Girl with a Pearl Earring_, by Johannes Vermeer
+- _Napoleon at Saint-Bernard Pass_, by Jacques-Louis David
+- _The Great Wave off Kanagawa_, by Katsushika Hokusai
+- _Houses of Parliament, Sunlight Effect_, by Claude Monet
+- _Still Life with Apples and a Pot of Primroses_, by Paul Cezanne
+- _Dance at Bougival_, by Pierre-Auguste Renoir
+- _Bedroom in Arles_, by Vincent van Gogh
+- _Breezing Up (A Fair Wind)_, by Winslow Homer
+- _Flaming June_, by Frederic Leighton
 
 <figure>
     <img src="https://i.imgur.com/GMH8aKb.jpg" alt="" width="500" height="344" />

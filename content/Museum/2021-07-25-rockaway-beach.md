@@ -2,10 +2,10 @@
 title: "Rockaway Beach"
 date: 2021-07-25 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
-    - beach
+  - travel
+  - California
+  - San Francisco Bay Area
+  - beach
 ---
 
 <figure style="text-align: center;">
@@ -44,4 +44,4 @@ According to this interpretive sign, you can see whale migrations here throughou
 
 Nick's Seafood Restaurant is the oldest restaurant in the area according to Wikipedia, but I don't see such a claim on their website. We didn't eat there but we did notice that they really don't like non-customers parking in their lot.
 
-*Photos taken July 2021.*
+_Photos taken July 2021._

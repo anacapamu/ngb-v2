@@ -2,10 +2,11 @@
 title: "Aimee Stewart - Candylicious"
 date: 2025-03-15 00:00:00 -0800
 tags:
-    - jigsaw puzzle
+  - jigsaw puzzle
 ---
 
 ![completed Candylicious puzzle](/static/img/CandyliciousPuzzle.jpeg)
+
 <center>
 <b>Rating:</b> ★ ★ ★ ★ ☆<br> 
 <b>Count:</b> 3 (2025)<br>

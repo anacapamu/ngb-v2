@@ -2,7 +2,7 @@
 title: "Penny and Grace - Mar 2018"
 date: 2019-05-15 00:00:00 -0800
 tags:
-    - subscription box
+  - subscription box
 ---
 
 [Penny and Grace](https://www.pennyandgrace.com/) is a subscription service that sends three assorted jewelry pieces (necklaces, rings, earrings, or bracelets) in silver, gold, or rose gold every month for $19.99. You can customize your ring size (6, 7, or 8) and opt out of receiving earrings if you do not have pierced ears or do not care to get more earrings.

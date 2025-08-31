@@ -2,8 +2,8 @@
 title: "Stickii Club Vintage Pack - Nov 2020 'Let It Snow'"
 date: 2020-12-11 00:00:00 -0800
 tags:
-    - subscription box
-    - stationery
+  - subscription box
+  - stationery
 ---
 
 Stickii Club offers three different types of monthly sticker subscriptions: Cute, Pop, and Vintage (formerly Retro). The packs are differentiated by color: pink for Cute, aqua (used to be purple) for Pop, and gold for Vintage. Each pack is $10 per month plus tax and shipping.
@@ -24,7 +24,7 @@ Each pack comes with at least six sticker sheets and at least three stationery i
     <img src="https://i.imgur.com/hbFc1xa.jpg" alt="Sticker sheet featuring various ice skating poses" width="450" height="600">
 </figure>
 
-If you haven’t guessed it yet, the theme is *Let it Snow*! While I have never ice skated before, I think this sheet showing different ice skating poses is cool.
+If you haven’t guessed it yet, the theme is _Let it Snow_! While I have never ice skated before, I think this sheet showing different ice skating poses is cool.
 
 <figure>
     <img src="https://i.imgur.com/UfKWlhH.jpg" alt="Fall-themed sticker sheet featuring cat, coffee, etc." width="450" height="709">

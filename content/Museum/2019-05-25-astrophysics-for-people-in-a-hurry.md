@@ -2,12 +2,12 @@
 title: "Astrophysics for People in a Hurry"
 date: 2019-05-25 00:00:00 -0800
 tags:
-    - book
+  - book
 ---
 
 ![Astrophysics for People in a Hurry](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761669l/32191710._SY475_.jpg)
 
-**Title:** *Astrophysics for People in a Hurry*
+**Title:** _Astrophysics for People in a Hurry_
 
 **Author:** Neil deGrasse Tyson
 
@@ -25,7 +25,7 @@ I recently got into audiobooks and this is the first audiobook I picked up. I wa
 
 Despite the complicated nature of the subject, Tyson is undoubtedly a great translator of astrophysics. In between the cold hard facts, he sprinkled in interesting insights and funny anecdotes. He also has a soothing voice, which helped me focus on the content. My only complaint about the narration is that he maintained the same tone throughout the reading—even for the jokes included in the book, which made the jokes sound unnatural.
 
-I rated this book much lower than I wanted because the presentation of the information, while simplified, is definitely not for "people in a hurry" nor people without a background in science. Even though I struggled with the content, Tyson did not scare me away from the subject. I just need to work with materials for beginners. He did recently publish *Astrophysics for Young People in a Hurry*, so I might just have to pick that up next.
+I rated this book much lower than I wanted because the presentation of the information, while simplified, is definitely not for "people in a hurry" nor people without a background in science. Even though I struggled with the content, Tyson did not scare me away from the subject. I just need to work with materials for beginners. He did recently publish _Astrophysics for Young People in a Hurry_, so I might just have to pick that up next.
 
 **Notable Quotes:**
 

@@ -2,8 +2,8 @@
 title: "May 2021 Art Challenge"
 date: 2021-05-31 00:00:00 -0800
 tags:
-    - arts and crafts
-    - art challenge
+  - arts and crafts
+  - art challenge
 ---
 
 <figure>

@@ -2,8 +2,8 @@
 title: "Whale and the Boat"
 date: 2020-11-18 00:00:00 -0800
 tags:
-    - arts and crafts
-    - paint by numbers
+  - arts and crafts
+  - paint by numbers
 ---
 
 <img src="https://i.imgur.com/XkjK2xO.jpg" width="450" height="503" />
@@ -26,7 +26,7 @@ I always spend the first day swatching because a) I like swatching and b) the sw
 
 <img src="https://i.imgur.com/c0Tq5mF.jpg" width="450" height="476" />
 
-**Day 3 (1.5 hours)** - I am starting to notice why this kit is cheaper. While the color from *The Great Wave off Kanagawa* kit did not match the original painting perfectly, the black on the bottom of this painting looks more like an oil spill than shadows.
+**Day 3 (1.5 hours)** - I am starting to notice why this kit is cheaper. While the color from _The Great Wave off Kanagawa_ kit did not match the original painting perfectly, the black on the bottom of this painting looks more like an oil spill than shadows.
 
 <img src="https://i.imgur.com/VH5sEaq.jpg" width="450" height="528" />
 
@@ -34,7 +34,7 @@ I always spend the first day swatching because a) I like swatching and b) the sw
 
 <img src="https://i.imgur.com/o3hHgDO.jpg" width="450" height="471" />
 
-**Day 5 (2.75 hours)** - This painting is a lot more difficult than *The Great Wave off Kanagawa* as there are a lot of little patches to fill. There are also more colors to work with.
+**Day 5 (2.75 hours)** - This painting is a lot more difficult than _The Great Wave off Kanagawa_ as there are a lot of little patches to fill. There are also more colors to work with.
 
 <img src="https://i.imgur.com/MWrG5ug.jpg" width="450" height="505" />
 

@@ -6,7 +6,7 @@ tags: gardening
 
 ![collage of nerve plant photos](https://i.imgur.com/hg2HnxQ.png) We have a few house plants in our office that no one was really taking care of. I was new to house plants when I joined the company, so I was eager to hone my gardening skills. I identified all the plants with the PictureThis app and learned more about them online. One of my coworkers told me that the nerve plant was a little drama queen because the leaves droops when it is thirsty. The leaves spring back up within a few hours if you water it right away.
 
-*Note: damage can be permanent if you don't water it soon, so avoid making the plant leaves droop.*
+_Note: damage can be permanent if you don't water it soon, so avoid making the plant leaves droop._
 
 I have included a photo of how the droopy leaves look like below.
 

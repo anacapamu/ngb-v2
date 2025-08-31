@@ -2,7 +2,7 @@
 title: "Feb 2020 Desktop Wallpapers"
 date: 2020-01-31 00:00:00 -0800
 tags:
-    - Digital Downloads
+  - Digital Downloads
 ---
 
 I am hoping this will not be my first post for 2020 but since I have finally paid for and chosen the dates for my CPA exams, I ~~should~~ will be ~~trying to~~ studying during all my free time.

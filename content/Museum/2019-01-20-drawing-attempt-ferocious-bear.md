@@ -6,7 +6,7 @@ tags: arts and crafts
 
 ![screenshot of ferocious bear from Total Drama](https://i.imgur.com/JIjrfG3.png)
 
-This ferocious bear from *Total Drama* made me want to draw. Since my SO recently bought the new iPad that is compatible with the Apple Pencil, I borrowed his iPad and Apple Pencil to experiment. This will be my first time drawing using the Apple Pencil and Adobe Sketch.
+This ferocious bear from _Total Drama_ made me want to draw. Since my SO recently bought the new iPad that is compatible with the Apple Pencil, I borrowed his iPad and Apple Pencil to experiment. This will be my first time drawing using the Apple Pencil and Adobe Sketch.
 
 <figure>
     <img src="https://i.imgur.com/wa2Ejxu.jpg" alt="Attempt #1">

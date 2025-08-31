@@ -2,11 +2,11 @@
 title: "Paint by Numbers - The Great Wave off Kanagawa"
 date: 2020-09-12 00:00:00 -0800
 tags:
-    - arts and crafts
-    - paint by numbers
+  - arts and crafts
+  - paint by numbers
 ---
 
-I finally jumped on the paint by numbers bandwagon. I wanted a painting that I would want to frame, so I searched for a long time on Amazon (up to page 7 or 8, which is crazy) and didn't find anything. I didn't want to wait 2-3 months for shipping from Aliexpress nor did I want to buy from some random website on Google search; so, I ended up spending 20 USD plus tax on Etsy for *The Great Wave off Kanagawa* paint by numbers kit. You can definitely get most kits for 10 USD on Amazon, so 20 USD is on the higher end.
+I finally jumped on the paint by numbers bandwagon. I wanted a painting that I would want to frame, so I searched for a long time on Amazon (up to page 7 or 8, which is crazy) and didn't find anything. I didn't want to wait 2-3 months for shipping from Aliexpress nor did I want to buy from some random website on Google search; so, I ended up spending 20 USD plus tax on Etsy for _The Great Wave off Kanagawa_ paint by numbers kit. You can definitely get most kits for 10 USD on Amazon, so 20 USD is on the higher end.
 
 <img class="aligncenter" src="https://i.imgur.com/sK4tbfQ.jpg" width="451" height="390" />
 
@@ -24,15 +24,15 @@ The canvas was rolled up in the packaging, so I ironed the canvas on high heat t
 
 <img class="aligncenter" src="https://i.imgur.com/9uyB7LT.jpg" width="451" height="298" />
 
-**Day 2 (2.5 hours)** - I decided to swatch the colors to the right of the canvas to see all my color options. At the time, I didn't know if I would have enough paint to finish the painting, so I didn't want to waste the paint I used to swatch and applied the remainder on to the canvas. *Spoiler alert, you get a lot of paint left over. I didn't run out of any colors.*
+**Day 2 (2.5 hours)** - I decided to swatch the colors to the right of the canvas to see all my color options. At the time, I didn't know if I would have enough paint to finish the painting, so I didn't want to waste the paint I used to swatch and applied the remainder on to the canvas. _Spoiler alert, you get a lot of paint left over. I didn't run out of any colors._
 
 <img class="aligncenter" src="https://i.imgur.com/PrkpIOT.jpg" width="451" height="371" />
 
-**Day 3 (3 hours)** - They recommend you do one color at a time to ensure freshness of the paint but I got bored and started playing with the other colors. *FYI that it has been more than 15 days since I started this paint by numbers kit and none of the paint has dried out.*
+**Day 3 (3 hours)** - They recommend you do one color at a time to ensure freshness of the paint but I got bored and started playing with the other colors. _FYI that it has been more than 15 days since I started this paint by numbers kit and none of the paint has dried out._
 
 <img class="aligncenter" src="https://i.imgur.com/W1yHy3K.jpg" width="451" height="326" />
 
-**Day 4 (3 hours)** - You definitely want to paint in bright light. The numbers are printed very lightly so that the paint can cover them. The lighter colors are not opaque enough, so you will need to do several coats to completely cover up the numbers and lines. I am glad they provided the paper copy of the numbers for reference as I made a few mistakes. Luckily, you can cover up any mistakes with enough layers of paint. *Note to noobie self, let the paint dry before applying a new coat.*
+**Day 4 (3 hours)** - You definitely want to paint in bright light. The numbers are printed very lightly so that the paint can cover them. The lighter colors are not opaque enough, so you will need to do several coats to completely cover up the numbers and lines. I am glad they provided the paper copy of the numbers for reference as I made a few mistakes. Luckily, you can cover up any mistakes with enough layers of paint. _Note to noobie self, let the paint dry before applying a new coat._
 
 <img class="aligncenter" src="https://i.imgur.com/F2UIYI3.jpg" width="451" height="332" />
 

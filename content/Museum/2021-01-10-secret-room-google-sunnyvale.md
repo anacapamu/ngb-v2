@@ -2,9 +2,9 @@
 title: "Secret Room in Google Sunnyvale Campus"
 date: 2021-01-10 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
+  - travel
+  - California
+  - San Francisco Bay Area
 ---
 
 I was at the Google Sunnyvale campus for an event back in February 2019. The following is a view of the event center (MP7) from Building MP3.
@@ -33,4 +33,4 @@ We really thought the little blue one was the real door and that we had to crawl
 
 The secret room is a speakeasy named Chalmun's, a reference to Star Wars. There was a record player, glasses, sofas, etc. but no liquor (we double-checked all the cabinets and shelves).
 
-*Photos taken February 2019.*
+_Photos taken February 2019._

@@ -2,11 +2,11 @@
 title: "Andrew Molera State Park"
 date: 2019-06-09 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - Big Sur
-    - park
-    - beach
+  - travel
+  - California
+  - Big Sur
+  - park
+  - beach
 ---
 
 ![Beach of Andrew Molera State Park](https://i.imgur.com/D46RxOT.jpg)
@@ -25,4 +25,4 @@ The walk to the beach was about 20 minutes and the trail was flat. There were on
 
 ![Frame made by tree branch](https://i.imgur.com/0jxA81W.jpg)
 
-*Pictures taken September 2018.*
+_Pictures taken September 2018._

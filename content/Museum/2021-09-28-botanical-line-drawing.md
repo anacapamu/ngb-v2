@@ -2,13 +2,13 @@
 title: "Botanical Line Drawing"
 date: 2021-09-28 00:00:00 -0800
 tags:
-    - arts and crafts
-    - book
+  - arts and crafts
+  - book
 ---
 
 ![Botanical Line Drawing](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492615603l/34888788._SX318_.jpg)
 
-**Title:** *Botanical Line Drawing: 200 Step-by-Step Flowers, Leaves, Cacti, Succulents, and Other Items Found in Nature*
+**Title:** _Botanical Line Drawing: 200 Step-by-Step Flowers, Leaves, Cacti, Succulents, and Other Items Found in Nature_
 
 **Author:** Peggy Dean
 

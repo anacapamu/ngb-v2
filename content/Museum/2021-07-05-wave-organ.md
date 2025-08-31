@@ -2,9 +2,9 @@
 title: "Wave Organ"
 date: 2021-07-05 00:00:00 -0800
 tags:
-    - travel
-    - California
-    - San Francisco Bay Area
+  - travel
+  - California
+  - San Francisco Bay Area
 ---
 
 <figure style="text-align:center;">
@@ -65,7 +65,8 @@ The sculpture consists of 25 organ pipes at various elevations that become activ
 
 It was a foggy day but we could still see Fort Mason in the southeast and Alcatraz Island in the north (see cover photo).
 
-*Photos taken January 2021.*
+_Photos taken January 2021._
 
 [^1]: [Exploratorium - Wave Organ](https://www.exploratorium.edu/visit/wave-organ)
+
 [^2]: [SF Weekly - History of Marina District Lighthouse](https://www.sfweekly.com/culture/yacht-rocks-the-unsung-history-of-the-marina-district-lighthouse/)
