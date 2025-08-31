@@ -15,7 +15,8 @@ You are not a bad daughter.
 You are not a bad mother.  
 You are not your thoughts.  
 
-But how long can I keep it in?  
+But how long  
+can I keep it in?  
 
 Fear —  
 that you’ll see me differently.  
