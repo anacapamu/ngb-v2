@@ -9,5 +9,6 @@ Posts here are organized in the following categories:
 
 - [Blog 2.0](/Blog2/): hobbies
 - [Writing](/Writing/): essays, poems, and (maybe) some creative writing
+- [Rants](/GearGrinders): rants about crappy systems and designs 
 - [Lists](/Lists/): a collection of lists of things
 - [Museum](/Museum/): posts written 2021 or before that I painstakingly migrated from a free blog site
