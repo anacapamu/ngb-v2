@@ -6,7 +6,6 @@ tags:
   - California
   - San Francisco Bay Area
   - museum
-  - arts and crafts
 ---
 
 <figure style="text-align: center;">
