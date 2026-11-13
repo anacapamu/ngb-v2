@@ -16,6 +16,18 @@ Love that a reimbursement decision was made within one business day. Don’t lov
 
 I guess the system is working as intended. If the process takes long enough, maybe people just forget about it. I already paid three figures for the medication, so the only person losing out is me.
 
-Update 1 (two weeks after submitting claim): Contacted support and they said they don't see anything on my account and it can take up to 30 days for an update. 
+---
 
-Update 2 (a month after): Followed up with support and after escalating to a senior team member, they said that with my plan, I should and can only submit for reimbursement via mail or fax...
+**Update 1** (two weeks after submitting claim): Contacted online support and they said they don't see anything on my account and it can take up to 30 days for an update. 
+
+---
+
+**Update 2** (a month after): Followed up with online support and after escalating to a senior team member, they said that with my plan, I should and can only submit for reimbursement via mail or fax...
+
+---
+
+**Update 3** (a month and a week after): Called support to get a form to mail reimbursement. They can see the claim in my account but not in their backend system. Senior support said to just wait for the mail, but the initial support person filed a ticket to get their system checked and told me to call back in a week if I don't hear from them. Thankful for people who are competent and care.
+
+---
+
+**Update 4** (two months after): Insurance won't pay for an out-of-network pharmacy LOL (yes, that LOL was sarcastic).
